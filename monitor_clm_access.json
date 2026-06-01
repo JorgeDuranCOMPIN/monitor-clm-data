@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mode": "chrome_profile",
+  "allowed_emails": [
+    "jorge.duran@redsalud.gob.cl"
+    "jenny.butto@resdalud.gob.cl"
+    "paulette.coloma@redsalud.gob.cl"
+  ],
+  "allowed_domains": []
+}
