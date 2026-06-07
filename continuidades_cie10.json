@@ -24,7 +24,7 @@
 "continuidades": [
 {
 "nombre": "Gastrointestinal",
-"incluye": ["A09", "K52", "R10"]
+"incluye": ["A09", "K52", "R10", "K20-K31", "R11"]
 },
 {
 "nombre": "Salud Mental",
@@ -32,7 +32,7 @@
 },
 {
 "nombre": "Respiratorio",
-"incluye": ["J*"]
+"incluye": ["J*", "R04-R07"]
 },
 {
 "nombre": "Obstetricia",
@@ -68,7 +68,7 @@
 },
 {
 "nombre": "Cardiología",
-"incluye": ["I00-I52"]
+"incluye": ["I00-I52", "R00-R01"]
 },
 {
 "nombre": "Vascular",
@@ -89,6 +89,46 @@
 {
 "nombre": "Obstetricia y Dolor Pélvico",
 "incluye": ["O*", "R10.2"]
+},
+{
+"nombre": "Rodilla",
+"incluye": ["M17*", "M22", "M23*", "S83*"]
+},
+{
+"nombre": "Cefaleas",
+"incluye": ["G43*", "G44*", "R51"]
+},
+{
+"nombre": "Vértigo",
+"incluye": ["H81*", "R42"]
+},
+{
+"nombre": "Sueño",
+"incluye": ["F51*", "G47*"]
+},
+{
+"nombre": "Dolor crónico",
+"incluye": ["M79*", "R52*",]
+},
+{
+"nombre": "Pierna",
+"incluye": ["M76*", "S80*", "S83*"]
+},
+{
+"nombre": "Diabetes",
+"incluye": ["E10-E14", "S91", "S98", "S81", "S88", "S78"]
+},
+{
+"nombre": "APVL",
+"incluye": ["T78.0", "T78.1", "T78.4", "K52"]
+},
+{
+"nombre": "Hepatitis",
+"incluye": ["R17", "B15-B19", "K70-K77"]
+},
+{
+"nombre": "Hiperplasia prostática",
+"incluye": ["R32-R33", "N40-N41"]
 }
 ],
 
