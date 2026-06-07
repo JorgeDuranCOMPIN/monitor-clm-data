@@ -1,0 +1,106 @@
+{
+"version": "1.0",
+"actualizado": "2026-06-07",
+
+"especiales": [
+{
+"codigo": "650",
+"accion": "SIEMPRE_PRIMERA"
+},
+{
+"codigo": "645",
+"accion": "CONTINUA_DE",
+"continua_de": ["650"]
+},
+{
+"codigo": "1650",
+"accion": "PUEDE_SER_PRIMERA_O_CONTINUA",
+"continua_de": ["650"],
+"permitir_superposicion": true,
+"no_alertar_por_diagnostico": true
+}
+],
+
+"continuidades": [
+{
+"nombre": "Gastrointestinal",
+"incluye": ["A09", "K52", "R10"]
+},
+{
+"nombre": "Salud Mental",
+"incluye": ["F*"]
+},
+{
+"nombre": "Respiratorio",
+"incluye": ["J*"]
+},
+{
+"nombre": "Obstetricia",
+"incluye": ["O*"]
+},
+{
+"nombre": "Oncológicos",
+"incluye": ["C*", "D*"]
+},
+{
+"nombre": "Fibromialgia y Psiquiatría",
+"incluye": ["M79*", "F*"]
+},
+{
+"nombre": "Columna y G55",
+"incluye": ["M40-M54", "G55"]
+},
+{
+"nombre": "Traumatismos",
+"incluye": ["T00-T14", "S*"]
+},
+{
+"nombre": "Hombro",
+"incluye": ["M75*", "S4*"]
+},
+{
+"nombre": "Oftalmología",
+"incluye": ["H00-H59"]
+},
+{
+"nombre": "Otorrinolaringología",
+"incluye": ["H60-H95"]
+},
+{
+"nombre": "Cardiología",
+"incluye": ["I00-I52"]
+},
+{
+"nombre": "Vascular",
+"incluye": ["I60-I79"]
+},
+{
+"nombre": "Circulatorio",
+"incluye": ["I80-I89"]
+},
+{
+"nombre": "Digestivo",
+"incluye": ["K00-K14"]
+},
+{
+"nombre": "Reumatología",
+"incluye": ["M05-M25"]
+},
+{
+"nombre": "Obstetricia y Dolor Pélvico",
+"incluye": ["O*", "R10.2"]
+}
+],
+
+"reglas_generales": {
+"requiere_mismo_empleador": true,
+"requiere_mismo_tipo_licencia": true,
+"permitir_superposicion_por_defecto": false,
+"evaluar_todos_los_motivos_no_continuidad": true
+},
+
+"regla_respaldo": {
+"misma_letra": true,
+"mismo_primer_digito": true
+}
+}
