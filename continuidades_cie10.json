@@ -116,7 +116,7 @@
 },
 {
 "nombre": "Diabetes",
-"incluye": ["E10-E14", "S91", "S98", "S81", "S88", "S78"]
+"incluye": ["E10-E14", "S91", "S98", "S81", "S88", "S78", "L97"]
 },
 {
 "nombre": "APVL",
