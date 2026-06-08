@@ -48,7 +48,7 @@
 },
 {
 "nombre": "Columna y G55",
-"incluye": ["M40-M54", "G55"]
+"incluye": ["M40-M54", "G55*", "M99*"]
 },
 {
 "nombre": "Traumatismos",
@@ -120,7 +120,7 @@
 },
 {
 "nombre": "APVL",
-"incluye": ["T78.0", "T78.1", "T78.4", "K52"]
+"incluye": ["T78.0", "T78.1", "T78.4", "K52*"]
 },
 {
 "nombre": "Hepatitis",
@@ -129,6 +129,10 @@
 {
 "nombre": "Hiperplasia prostática",
 "incluye": ["R32-R33", "N40-N41"]
+},
+{
+"nombre": "Embolia pulmonar,
+"incluye": ["I82", "I26*"]
 }
 ],
 
