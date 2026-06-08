@@ -116,7 +116,7 @@
 },
 {
 "nombre": "Diabetes",
-"incluye": ["E10-E14", "S91", "S98", "S81", "S88", "S78", "L97"]
+"incluye": ["E10-E14", "S91", "S98", "S81", "S88", "S78", "L97", "G62-G63"]
 },
 {
 "nombre": "APVL",
@@ -128,11 +128,19 @@
 },
 {
 "nombre": "Hiperplasia prostática",
-"incluye": ["R32-R33", "N40-N41"]
+"incluye": ["R31-R33", "N40-N41", "N02*"]
 },
 {
-"nombre": "Embolia pulmonar,
-"incluye": ["I82", "I26*"]
+"nombre": "Embolia pulmonar",
+"incluye": ["I82*", "I26*"]
+},
+{
+"nombre": "Tendón aquiliano",
+"incluye": ["M76.6", "M67.0", "S86.0"]
+},
+{
+"nombre": "Malformaciones congénitas",
+"incluye": ["Q*"]
 }
 ],
 
