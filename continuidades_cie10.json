@@ -108,7 +108,7 @@
 },
 {
 "nombre": "Dolor crónico",
-"incluye": ["M79*", "R52*",]
+"incluye": ["M79*", "R52*"]
 },
 {
 "nombre": "Pierna",
