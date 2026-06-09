@@ -141,6 +141,14 @@
 {
 "nombre": "Malformaciones congénitas",
 "incluye": ["Q*"]
+},
+{
+"nombre": "Absceso de la cara",
+"incluye": ["L02.0 ", "K12.2", "H04*", "J43.0", "H60.0", "H05.0", "H00*"]
+},
+{
+"nombre": "Absceso anal",
+"incluye": ["L02*", "K61*", "K60*"]
 }
 ],
 
