@@ -149,6 +149,10 @@
 {
 "nombre": "Absceso anal",
 "incluye": ["L02*", "K61*", "K60*"]
+},
+{
+"nombre": "Epilepsia",
+"incluye": ["G40-G41", "R56*"]
 }
 ],
 
