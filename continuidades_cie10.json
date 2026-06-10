@@ -157,7 +157,8 @@
 {
 "nombre": "Contusión lumbar",
 "incluye": ["S30.0", "M54*"]
-}
+},
+{
 "nombre": "Deformidades",
 "incluye": ["M20-M21", "Q66-Q79"]
 }
