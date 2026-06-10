@@ -153,6 +153,10 @@
 {
 "nombre": "Epilepsia",
 "incluye": ["G40-G41", "R56*"]
+},
+{
+"nombre": "Contusión lumbar",
+"incluye": ["S30.0", "M54*"]
 }
 ],
 
