@@ -56,7 +56,7 @@
 },
 {
 "nombre": "Hombro",
-"incluye": ["M75*", "S4*"]
+"incluye": ["M75*", "S4*", "M68"]
 },
 {
 "nombre": "Oftalmología",
@@ -173,6 +173,14 @@
 {
 "nombre": "Colelitiasis y cirugía",
 "incluye": ["K80-K81", "Y83", "K91"]
+},
+{
+"nombre": "Prematurez",
+"incluye": ["P*"]
+},
+{
+"nombre": "Várices, insuficiencia venosa, tromboflebitis",
+"incluye": ["I80", "I82-I83", "I87", "I73"]
 }
 ],
 
