@@ -161,6 +161,10 @@
 {
 "nombre": "Deformidades",
 "incluye": ["M20-M21", "Q66-Q79"]
+},
+{
+"nombre": "ACV",
+"incluye": ["G45-G46", "I60-I69"]
 }
 ],
 
