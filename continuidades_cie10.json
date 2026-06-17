@@ -164,11 +164,15 @@
 },
 {
 "nombre": "ACV",
-"incluye": ["G45-G46", "I60-I69"]
+"incluye": ["G45-G46", "I60-I69", "G51", "G81-G83"]
 },
 {
 "nombre": "Uñas",
-"incluye": ["L60.0", "L60.8"; "L60.8"; "L02.8"; "L03.0"]
+"incluye": ["L60.0", "L60.8", "L02.8", "L03.0"]
+},
+{
+"nombre": "Colelitiasis y cirugía",
+"incluye": ["K80-K81", "Y83", "K91"]
 }
 ],
 
