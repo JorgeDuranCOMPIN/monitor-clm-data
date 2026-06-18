@@ -181,6 +181,10 @@
 {
 "nombre": "Várices, insuficiencia venosa, tromboflebitis",
 "incluye": ["I80", "I82-I83", "I87", "I73"]
+},
+{
+"nombre": "Coxartrosis",
+"incluye": ["M16", "M87", "Y83"]
 }
 ],
 
