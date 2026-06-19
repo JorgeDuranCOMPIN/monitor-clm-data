@@ -26,6 +26,7 @@
     { "usuario": "belkis.lugo@redsalud.gob.cl", "codigo": "27071965", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "herianny.luyando@redsalud.gob.cl", "codigo": "27231992", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "karelia.molina@redsalud.gob.cl", "codigo": "26331980", "active": true, "maxDevices": 1, "devices": [] },
+    { "usuario": "carolina.moya@redsalud.gob.cl", "codigo": "15631983", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "ida.moralesv@redsalud.gob.cl", "codigo": "81171963", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "mariano.prietod@redsalud.gob.cl", "codigo": "21771973", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "laura.santibanez@redsalud.gob.cl", "codigo": "81111956", "active": true, "maxDevices": 1, "devices": [] },
