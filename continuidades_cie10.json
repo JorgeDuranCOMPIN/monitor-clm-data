@@ -185,6 +185,18 @@
 {
 "nombre": "Coxartrosis",
 "incluye": ["M16", "M87", "Y83"]
+},
+{
+"nombre": "Parkinson",
+"incluye": ["G20", "F02.3"]
+},
+{
+"nombre": "Hernia diafragmática",
+"incluye": ["K44", "Q79.0"]
+},
+{
+"nombre": "RDSM",
+"incluye": ["Q67.3", "F82", "R62"]
 }
 ],
 
