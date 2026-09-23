@@ -33,9 +33,9 @@
     { "usuario": "roberto.tirado@redsalud.gob.cl", "codigo": "21511976", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "luz.valenzuela@redsalud.gob.cl", "codigo": "10971976", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "paula.vasquez@redsalud.gob.cl", "codigo": "14321977", "active": true, "maxDevices": 1, "devices": [] },
-    { "usuario": "ricardo.velandiam@redsalud.gob.cl", "codigo": "24011984", "active": true, "maxDevices": 1, "devices": [] }
-    { "usuario": "rabi.santis@redsalud.gob.cl", "codigo": "15751984", "active": true, "maxDevices": 1, "devices": [] }
-    { "usuario": "claudia.aguileran@redsalud.gob.cl", "codigo": "16421986", "active": true, "maxDevices": 1, "devices": [] }
+    { "usuario": "ricardo.velandiam@redsalud.gob.cl", "codigo": "24011984", "active": true, "maxDevices": 1, "devices": [] },
+    { "usuario": "rabi.santis@redsalud.gob.cl", "codigo": "15751984", "active": true, "maxDevices": 1, "devices": [] },
+    { "usuario": "claudia.aguileran@redsalud.gob.cl", "codigo": "16421986", "active": true, "maxDevices": 1, "devices": [] },
     { "usuario": "monica.cid@redsalud.gob.cl", "codigo": "96341967", "active": true, "maxDevices": 1, "devices": [] }
   ]
 }
